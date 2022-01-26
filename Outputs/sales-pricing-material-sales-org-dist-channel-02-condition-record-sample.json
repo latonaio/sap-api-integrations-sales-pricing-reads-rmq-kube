@@ -1,0 +1,33 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-pricing-reads/SAP_API_Caller/caller.go#L187",
+	"function": "sap-api-integrations-sales-pricing-reads/SAP_API_Caller.(*SAPAPICaller).MaterialSalesOrgDistChannel",
+	"level": "INFO",
+	"message": {
+		"ConditionRecord": "0000008431",
+		"ConditionSequentialNumber": "1",
+		"ConditionTable": "304",
+		"ConditionApplication": "V",
+		"ConditionType": "PPR0",
+		"ConditionValidityEndDate": "/Date(253402214400000)/",
+		"ConditionValidityStartDate": "/Date(1472688000000)/",
+		"CreationDate": "/Date(1473292800000)/",
+		"PricingScaleType": "A",
+		"PricingScaleBasis": "",
+		"ConditionScaleQuantity": "0.000",
+		"ConditionScaleQuantityUnit": "",
+		"ConditionScaleAmount": "0.00",
+		"ConditionScaleAmountCurrency": "",
+		"ConditionCalculationType": "C",
+		"ConditionRateValue": "500.00",
+		"ConditionRateValueUnit": "USD",
+		"ConditionQuantity": "1",
+		"ConditionQuantityUnit": "PC",
+		"BaseUnit": "",
+		"ConditionIsDeleted": false,
+		"PaymentTerms": "",
+		"IncrementalScale": "0",
+		"PricingScaleLine": "0",
+		"ConditionReleaseStatus": ""
+	},
+	"time": "2021-12-21T19:26:58.663188+09:00"
+}
