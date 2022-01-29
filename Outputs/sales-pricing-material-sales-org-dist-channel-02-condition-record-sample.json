@@ -8,9 +8,9 @@
 		"ConditionTable": "304",
 		"ConditionApplication": "V",
 		"ConditionType": "PPR0",
-		"ConditionValidityEndDate": "/Date(253402214400000)/",
-		"ConditionValidityStartDate": "/Date(1472688000000)/",
-		"CreationDate": "/Date(1473292800000)/",
+		"ConditionValidityEndDate": "9999-12-31T09:00:00+09:00",
+		"ConditionValidityStartDate": "2016-09-01T09:00:00+09:00",
+		"CreationDate": "2016-09-08T09:00:00+09:00",
 		"PricingScaleType": "A",
 		"PricingScaleBasis": "",
 		"ConditionScaleQuantity": "0.000",
@@ -29,5 +29,5 @@
 		"PricingScaleLine": "0",
 		"ConditionReleaseStatus": ""
 	},
-	"time": "2021-12-21T19:26:58.663188+09:00"
+	"time": "2022-01-27T22:11:23+09:00"
 }

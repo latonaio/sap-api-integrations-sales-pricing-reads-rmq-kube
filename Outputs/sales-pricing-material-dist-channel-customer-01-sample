@@ -5,8 +5,8 @@
 	"message": [
 		{
 			"ConditionRecord": "0000009308",
-			"ConditionValidityEndDate": "/Date(253402214400000)/",
-			"ConditionValidityStartDate": "/Date(1492387200000)/",
+			"ConditionValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"ConditionValidityStartDate": "2017-04-17T09:00:00+09:00",
 			"ConditionApplication": "V",
 			"ConditionType": "PPR0",
 			"ConditionReleaseStatus": "",
@@ -49,5 +49,5 @@
 			"to_SlsPrcgConditionRecord": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SLSPRICINGCONDITIONRECORD_SRV/A_SlsPrcgCndnRecdValidity(ConditionRecord='0000009308',ConditionValidityEndDate=datetime'9999-12-31T00%3A00%3A00')/to_SlsPrcgConditionRecord"
 		}
 	],
-	"time": "2021-12-21T18:39:25.083876+09:00"
+	"time": "2022-01-27T22:09:35+09:00"
 }
