@@ -10,8 +10,8 @@ sap-api-integrations-sales-pricing-reads-rmq-kube は、主にエッジコンピ
 ・ エッジ Kubernetes （推奨）    
 ・ AION のリソース （推奨)    
 ・ OS: LinuxOS （必須）  
-・ CPU: ARM/AMD/Intel（いずれか必須）  　
-・ RabbitMQ on Kubernetes    
+・ CPU: ARM/AMD/Intel（いずれか必須）  
+・ RabbitMQ on Kubernetes  
 ・ RabbitMQ Client   
 
 ## クラウド環境での利用
